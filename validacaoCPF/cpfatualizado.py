@@ -1,4 +1,4 @@
-cpf = [4, 5, 6, 1, 2, 2, 1, 3, 8, 7, 6]
+cpf = [4, 5, 6, 1, 2, 2, 1, 3, 8, 7, 5]
 
 def executar():
     cpf_menor = cpf[:9] #pega da primeira até a oitava posição
