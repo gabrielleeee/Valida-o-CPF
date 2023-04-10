@@ -4,8 +4,7 @@ def executar():
     cpf_menor = cpf[:9] #pega da primeira até a oitava posição
     resultado = []
     resultado2 = []
-
-    #para cada numero contido no cpf 
+ 
     contador = 10
     for num in cpf_menor:
         resultado.append(num * contador)
